@@ -12,6 +12,9 @@ https://www.dllapi.com/
 https://wwa.lanzoui.com/b0creabid 
 访问密码:bf3e,无法访问请尝试访问 lanzou.com/b0creabid 或更换电脑DNS
 
+资源下载器：
+https://wwd.lanzouw.com/ivpOB069cosf
+
 验证文档地址(不定期更新)：
 https://docs.apipost.cn/preview/4cfc708538440167/135183606874aab9
 
@@ -21,6 +24,12 @@ https://www.bilibili.com/video/BV1Uq4y1t7xy
 验证交流群(群号:221689201)：
 https://jq.qq.com/?_wv=1027&k=1L1SaHs0
 ====================================================
+2022.6.11
+
+[资源下载器]更新日志
+
+1 U 上线资源下载器工具，方便开发者快速下载验证所需文件
+
 2022.6.8
 
 [服务]维护日志
