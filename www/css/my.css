@@ -1,0 +1,203 @@
+#tbcompany td{float: left;}
+/*Swallow add from 2014.10.28 Home_page css style*/
+.advTable th{padding:15px 15px 15px 0; margin:0;}
+.advTable td,.advTable tr{padding:10px 0; margin:0;}
+.advTable th i{display:block; width:52px; height:52px; background-color:#3a83ad; color:#FFF; line-height:52px; text-align:center; font-size:1.5em; font-size:32px;}
+.advTable td h4,.advTable td p{padding:0; margin:0}
+.advTable th i img{vertical-align:top;}
+.advTable td h4{font-size: 1.1em; font-weight: bold; margin:8px 0 2px 0; color:#3a83ad;}
+.advTable td h4 a{color:#F60;}
+.advTable td h4 a:hover{color:#ed650b;}
+.advTable td p{margin-bottom:5px}
+.advTable tr{border-bottom:1px solid #EEE;}
+
+/*swallow add from 2014.10.23 nav css style*/
+.header .container{background:url("img/nav_bg.png") repeat-x left top!important;}
+.nav > li.current-menu-item > a,
+.nav > li.current-menu-parent > a,
+.nav > li > a:hover{background-color:#387fa9!important; color:#dbf2ff!important; border-top:4px solid #FFD200; padding:13px 25px 20px 25px;}
+
+/*swallow add from 2014.10.28 index_page_partner css style*/
+.menu_block{display:inline; float:left; width:120px; height:28px; line-height:28px; margin-top:2px!important;}
+.menu_block a{display:block; background-color:#fafafa; border-left:2px solid #ededed; margin-right:5px; text-indent:.5em; font-size:12px; color:#666;}
+.menu_block a:hover,
+table.comanyImg td h5:hover {border-left:4px solid #FFD200; background-color:#3A83AD; color:#FFF;}
+
+/*Widget Menu*/
+.widget_nav_menu .menu {margin-right: 0px;}
+.widget_nav_menu ul {list-style: none; margin-left: 0px;}
+.widget_nav_menu li {margin-top: 0px;}
+.widget_nav_menu .glyphicon {color: inherit;}
+.menu_line{margin-bottom:2px;}
+.menu_line a{color: #333; display:block; margin-right: 6px; background-color: #fafafa; padding:15px; border-left: 4px solid #DDD; overflow: hidden; font-size:18px;}
+.menu_line a i{margin-right:5px; font-size:15px;}
+.widget_nav_menu .current-menu-item a,.menu_line a:hover{color: #fff; background-color: #3A83AD; border-left-color: #FED426; border-left-width: 4px;}
+
+/*swallow add from 2014.10.23 job_page css style*/
+#job_ul li h3{display:block; border-left:2px solid #3A83AD; border-bottom:2px solid #FFF; background-color:#F0F0F0; font:bold 14px/26px "microsoft yahei"; color:#3A83AD; margin:0 0 15px 0;}
+#job_ul li{background-color:#EEE; padding-bottom:25px; margin-bottom:25px;}
+#job_ul li h3 i{margin:0 10px;}
+#job_ul li .job_email{width:186px; height:186px; margin:20px;}
+#job_ul li .job_email i{font-size:56px; width:186px; height:120px; line-height:140px; text-align:center; color:#3A83AD;}
+#job_ul li .job_email p{text-indent:0; text-align:center; line-height:32px;}
+#job_ul li .job_font{width:560px; margin-right:50px; line-height:26px; font-size:14px;}
+
+/*swallow add from 2014.10.17 AM*/
+table.cusTable,table.cusOther{border:none; margin:0;}
+table.cusTable td,.cusTable th,table.cusOther td,.cusOther th{border:0; margin:0; padding:0;}
+.cusBase img{width:110px; height:110px; margin:0 20px 10px 10px; border:1px solid #EEE;}
+.cusBase td h3{margin:0; height:32px; line-height:32px; font-size:18px; color:#3a83ad;}
+.cusBase td p{text-indent:0; line-height:25px; font-size:13px; margin-bottom:8px; color:#818080;}
+.cusBase td span{color:#3a83ad;}
+table .cusHeart th{border:none; background-color:#FFF; text-align:left; font-weight:normal;}
+table .cusHeart th i{font-size:1.2em; margin-right:8px;}
+table .cusHeart th p{text-indent:0; font-size:13px; color:#888; line-height:22px; padding-bottom:20px; margin:0 50px 30px 10px; border-bottom:1px dashed #DDD;}
+table.cusOther td{width:215px; text-align:center; border-bottom:1px dashed #DDD;}
+table.cusOther td img{margin:25px 0 0 15px;}
+table.cusOther td h4,table.cusOther p{width:185px; display:block; margin:0 15px; text-align:left;}
+table.cusOther td h4{height:32px; line-height:32px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-size:12px; color:#3A83AD;}
+table.cusOther td p{text-indent:0; font-size:13px; line-height:22px; margin-bottom:10px;}
+
+/*swallow add from 2014.10.20*/
+.aboutUl{display:block;}
+.aboutUl li{float:left; display:inline;}
+.slogan{width:32px; height:352px; border-top:2px solid #FFD200; background-color:#3A83AD; font-size:18px; padding-left:6px; color:#FFF;}
+.slogan i{margin-top:15px;}
+.usFont{width:715px; margin:0 20px; line-height:26px;}
+.usFont p{margin-bottom:10px; font-size:16px; line-height:32px;}
+table.companyImg{border:none; margin:0;}
+table.companyImg td,table.companyImg th{border:0; margin:0; padding:0; background-color:none; text-align:center; vertical-align:middle;}
+table.companyImg td img{margin:25px 0 0 40px; border:1px solid #EFEFEF;}
+table.companyImg td h5{background-color:#fafafa; border-left:2px solid #ededed; line-height:32px; width:325px; margin:10px 0 15px 40px; text-align:left; text-indent:.8em;}
+
+/*swallow add from 2014.10.20 contacts_page*/
+.co_ul,
+#job_ul{display:block; padding:0; margin:0; list-style:none; text-indent:0;}
+.co_ul li table,
+.co_ul li td{border:none!important; padding:0;}
+.co_ul li{display:inline; background-color:#FAFAFA;}
+.co_ul li h3{display:block; border-left:2px solid #3A83AD; border-bottom:2px solid #FFF; background-color:#F0F0F0; font:bold 14px/26px "microsoft yahei"; color:#3A83AD; margin:0 0 15px 0;}
+.co_ul li i{margin:0 8px;}
+.co_ul li p{text-indent:0;}
+li.co_img{width:860px; margin-bottom:20px;}
+li.co_img img{margin:-20px 0 0 0;}
+li.co_all_ser{margin-right:20px; min-height:522px;}
+li.co_all_ser p{margin:0 20px; line-height:26px; font-size:14px;}
+li.co_all_ser strong{margin:5px 0;}
+div.time{margin-left:20px; height:56px; font:22px/56px Arial; color:#FF2200;}
+li.co_sale_ser,li.co_support_ser{width:590px;}
+li.co_sale_ser > p,
+li.co_sale_ser > div,
+li.co_support_ser table,
+li.co_support_ser strong,
+.sale_qq{margin:0 25px; line-height:26px; display:block;}
+li.co_sale_ser .titleFont,
+li.co_support_ser .titleFont{display:inline-block; background-color:#80C929; color:#FFF; padding:0 10px;}
+.sale_qq{width:526px; height:146px; margin-top:15px;}
+.sale_qq td{width:130px; vertical-align:top; text-align:center;}
+.sale_qq i{display:block; width:75px; height:75px; font-size:32px; text-align:center; line-height:75px; margin:0 auto!important; border-radius:50px; background-color:#2CA9CD; color:#FFF; cursor:pointer;}
+.sale_qq a{display:block; height:23px; overflow:hidden; margin:8px auto 3px auto; text-align:center; cursor:pointer;}
+.sale_qq td div.qq_num{height:26px; text-align:center; font-size:12px; color:#F60; font-weight:bold; cursor:pointer;}
+.sale_qq td:hover i{color:#80C929;}
+li.co_support_ser a{text-align:center; line-height:100px; font-size:36px; color:#FFF; text-decoration:none;}
+a.ser_list{display:block; width:270px; height:100px; margin:10px 20px 10px 0; border-radius:15px; background-color:#2CA9CD;}
+a.ser_list:hover{color:#0DD4A8!important;}
+a.compl:hover{color:#F60!important;}
+a.compl{display:inline-block; width:100px; height:100px; margin:10px 10px 10px 0; background-color:#EEE; line-height:50px!important; color:#666!important; font-size:24px!important;}
+a.compl i{font-size:24px; display:block; line-height:50px;}
+li.co_talk_parter,
+li.co_job{width:860px; clear:both;}
+li.co_talk_parter table,
+li.co_job table{margin:0 20px;}
+
+/*swallow add from 2014.10.23 products css style*/
+#pro{margin-right:0;}
+/*swallow add from 2014.10.20 product_page*/
+#pro ul,
+#pro li{padding:0; margin:0; list-style:none;}
+#pro ul.pro_menu{display:block; padding-left:180px; height:120px; border-bottom:1px solid #EEE; text-align:center;}
+#pro ul.pro_menu li{float:left; display:inline; width:158px; height:98px; margin:0 10px;}
+ul.pro_menu li a{text-decoration:none;}
+ul.pro_menu li i{display:block; line-height:58px; font-size:42px; color:#3A83AD; margin:0 0 10px 0;}
+ul.pro_menu li span{display:block;  line-height:32px; border:1px solid #EEE; cursor:pointer; color:#3A83AD;}
+ul.pro_menu li:hover{border:1px solid #EEE;}
+ul.pro_menu li:hover span{border:none; background-color:#3A83AD; color:#FFF;}
+ul.pro_menu li:hover i{color:#80C929;}
+li.so_tips{width:140px!important; margin:0 10px!important;}
+
+div.pro_box,div.idc{background-color:#f7fafc; margin-bottom:25px; width:1002px; margin:0 auto; border:1px solid #DDD; border-radius:10px;}
+h2.ti{width:1002px; height:93px; padding:20px 0 0 0; margin:0 auto; border:none;}
+h2.ti strong{display:block; width:310px; margin:0 auto; text-align:center; border:1px solid #DDD; color:#3A83AD; font-size:18px; height:48px; line-height:48px; margin-top:25px; background-color:#EEE; border-radius:10px 10px 0 0; border-bottom:none;}
+.free_box{width:1002px; margin:0 auto; padding:15px 25px; background-color:#f7fafc; border:1px solid #DDD; border-radius:10px; }
+.free_box p{text-indent:0;}
+.free_box strong{font-size:14px; color:#3a83ad;}
+.free_box a{color:#666; text-decoration:none;}
+
+div.idc{padding:35px 180px; line-height:32px; color:#000;}
+.fl{float:left; display:inline;}
+.fr{float:right; display:inline;}
+.cl{height:0; line-height:0; font-size:0; clear:both;}
+
+ul.fun_ul li{padding:20px 10px!important; background:url("img/line.jpg") no-repeat center bottom;}
+.fun_font{width:460px;}
+.fun_font h3,.fun_data_font h3{font-weight:normal; font-size:24px; color:#000; margin-top:60px; }
+.fun_font p{text-indent:0; line-height:35px; margin:0!important; font-size:13px;}
+
+#solution .fun_font{width:480px;}
+
+/*swallow add from 2014.10.23 products_price_table css style*/
+/*#pro_table{width:1002px; margin:25px auto 0 auto; border-top:1px solid #DDD; border-left:1px solid #DDD; border-collapse:separate!important;}*/
+
+#pro_table{ margin:25px auto 0 auto; border-top:1px solid #DDD; border-left:1px solid #DDD; border-collapse:separate!important;}
+
+
+#pro_table th{background:#F6F6F6; border-color:#FFFFFF #ECECEC #ECECEC #FFFFFF; border-style:solid; border-width:1px; padding:5px 0;}
+#pro_table td{border-right:1px solid #DDD; border-bottom:1px solid #DDD;}
+#pro_table td.month{background-color:#52AD3A;}
+#pro_table td.forever{background-color:#2EC095;}
+#pro_table td.put{background-color:#2E73C0;}
+#pro_table td.gold{background-color:#6C36CC;}
+#pro_table td h3{font-size:22px; padding:10px 0 10px 0; margin:0; border-bottom:1px dotted #FFF; color:#FFF;}
+#pro_table td h4{font-size:18px; text-align:center; color:#FFF;}
+#pro_table td h5{font-size:14px; text-align:center; color:#FFF;}
+#pro_table th h4{font-size:16px; color:#3A83AD;}
+#pro_table th h5{font-size:12px; color:#F20;}
+#pro_table th{text-align:left; text-indent:1.5em; font-weight:normal;}
+
+
+#pro_table i.glyphicon-ok{color:#52AD3A; font-size:22px;}
+
+
+
+
+
+
+
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+#pro_table i.glyphicon-remove{color:#BA0F0F; font-size:22px;}
+#pro_table td{text-align:center;}
+#pro_table td.rmb{font-size:20px; font-family:Arial;}
+#pro_table td.m{color:#52AD3A;}
+#pro_table td.f{color:#2EC095;}
+#pro_table td.p{color:#2E73C0;}
+#pro_table td.g{color:#6C36CC;}
+#pro_table a.pro_buy{width:128px; height:36px; display:block; background-color:#3A83AD; border-bottom:2px solid #FFD200; color:#FFF; font-size:16px; line-height:36px; text-align:center; margin:15px auto; text-decoration:none;}
+#pro_table a.pro_buy:hover{background-color:#168ED4;}
+
+#fun_data li{float:left; display:inline; margin:10px; width:476px; min-height:436px; text-align:center; padding-top:60px; border-bottom:1px dashed #DDD;}
+#fun_data li .icon_font{font-size:68px; color:#FFF; width:128px; height:128px; line-height:128px; border-radius:25px; background-color:#3A83AD; text-align:center; margin:0 auto;}
+#fun_data li strong{display:block;}
+#fun_data li p{width:360px; display:block; margin:0 auto;}
