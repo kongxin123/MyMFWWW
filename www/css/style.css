@@ -113,14 +113,14 @@ input, button, textarea, select, optgroup, option {
 	width:100%
 }
 .i-kiddesk .orange {
-	background:url("../img/sb-2.png") scroll 0 0;
+	background:url("./img/sb-2.png") scroll 0 0;
 	
 }
 .i-kiddesk .green {
-	background:url("../img/sb-1.png") scroll 0 0;
+	background:url("./img/sb-1.png") scroll 0 0;
 }
 .i-kiddesk .apache {
-	background:url("../img/apache.png") scroll 0 0;
+	background:url("./img/apache.png") scroll 0 0;
 }
 .i-kiddesk .solid-target {
 	margin:0 auto;
@@ -130,7 +130,7 @@ input, button, textarea, select, optgroup, option {
 	left:-13px;
 }
 .i-kiddesk .solidli  li {
-	background:url("../img/ring-2.png") no-repeat scroll 0 0;
+	background:url("./img/ring-2.png") no-repeat scroll 0 0;
     height: 24px;
     width: 24px;
 	cursor:pointer;
@@ -139,7 +139,7 @@ input, button, textarea, select, optgroup, option {
 	
 }
 .i-kiddesk .solidli  li.selected {
-	background:url("../img/ring-1.png") no-repeat scroll 0 0;
+	background:url("./img/ring-1.png") no-repeat scroll 0 0;
 }
 
 /*
@@ -179,7 +179,7 @@ input, button, textarea, select, optgroup, option {
 	color:#56a21f
 }
 .i-kiddesk .logo a {
-	background:url("../img/qlogo.png") no-repeat;
+	background:url("./img/qlogo.png") no-repeat;
 	display:block;
 	float:left;
 	height:55px;
@@ -239,10 +239,10 @@ input, button, textarea, select, optgroup, option {
 	text-indent:-99em;
 	top:271px;
 	width:160px;
-	background:url("../img/windows-11.png") no-repeat
+	background:url("./img/windows-11.png") no-repeat
 }
 .slide-wrap a.windows:hover {
-	background:url("../img/windows-12.png") no-repeat
+	background:url("./img/windows-12.png") no-repeat
 }
 
 .slide-wrap  a.linux {
@@ -254,10 +254,10 @@ input, button, textarea, select, optgroup, option {
 	text-indent:-99em;
 	top:271px;
 	width:160px;
-	background:url("../img/linux-1.png") no-repeat
+	background:url("./img/linux-1.png") no-repeat
 }
 .slide-wrap  a.linux:hover {
-	background:url("../img/linux-2.png") no-repeat
+	background:url("./img/linux-2.png") no-repeat
 }
 
 .slide-wrap .orange a.a1 {
@@ -269,10 +269,10 @@ input, button, textarea, select, optgroup, option {
 	text-indent:-99em;
 	top:318px;
 	width:160px;
-	background:url("../img/windows-11.png") no-repeat
+	background:url("./img/windows-11.png") no-repeat
 }
 .slide-wrap .orange a.a1:hover {
-	background:url("../img/windows-12.png") no-repeat
+	background:url("./img/windows-12.png") no-repeat
 }
 
 .slide-wrap .orange a.a2 {
@@ -284,10 +284,10 @@ input, button, textarea, select, optgroup, option {
 	text-indent:-99em;
 	top:318px;
 	width:160px;
-	background:url("../img/linux-1.png") no-repeat
+	background:url("./img/linux-1.png") no-repeat
 }
 .slide-wrap .orange a.a2:hover {
-	background:url("../img/linux-2.png") no-repeat
+	background:url("./img/linux-2.png") no-repeat
 }
 .slide-wrap .apache a.a1 {
 	display:block;
@@ -298,10 +298,10 @@ input, button, textarea, select, optgroup, option {
 	text-indent:-99em;
 	top:294px;
 	width:175px;
-	background:url("../img/a_1.png") no-repeat
+	background:url("./img/a_1.png") no-repeat
 }
 .slide-wrap .apache a.a1:hover {
-	background:url("../img/a_2.png") no-repeat
+	background:url("./img/a_2.png") no-repeat
 }
 /*
 .i-kiddesk .orange a {
@@ -358,7 +358,7 @@ input, button, textarea, select, optgroup, option {
 
 
 .history {
-    background: url("../img/line04.gif") repeat-y 187px 0;
+    background: url("./img/line04.gif") repeat-y 187px 0;
     margin: 0 auto;
     min-height: 109px;
     overflow: hidden;
@@ -370,7 +370,7 @@ input, button, textarea, select, optgroup, option {
     position: relative;
 }
 .history-date h2 {
-    background: url("../img/icon06.gif") no-repeat 158px 0;
+    background: url("./img/icon06.gif") no-repeat 158px 0;
     font-family: 微软雅黑;
     font-size: 25px;
     font-weight: normal;
@@ -386,7 +386,7 @@ input, button, textarea, select, optgroup, option {
     z-index: 99;
 }
 .history-date h2 a {
-    background: url("../img/icon08.gif") no-repeat right 50%;
+    background: url("./img/icon08.gif") no-repeat right 50%;
     color: #0bf;
     display: inline-block;
     margin: 21px 97px 0 0;
@@ -402,7 +402,7 @@ input, button, textarea, select, optgroup, option {
     background: none repeat scroll 0 center rgba(0, 0, 0, 0);
 }
 .history-date ul li {
-    background: url("../img/icon07.gif") no-repeat 180px 0;
+    background: url("./img/icon07.gif") no-repeat 180px 0;
     padding-bottom: 50px;
 }
 .history-date ul li.last {
@@ -589,7 +589,7 @@ a.abutton {
     padding: 12px 30px;
 }
 .slide-wrap{
-	background:url("../img/sb.png") scroll 0 0 #04B263;
+	background:url("./img/sb.png") scroll 0 0 #04B263;
 }
 .fdiv{
 	height:428px;
