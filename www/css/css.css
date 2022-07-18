@@ -26,15 +26,15 @@ a:focus { outline: none; }
 .lib_Menubox_sx li.visited { padding: 0px; background: #1E1F29; width: 250px; border-right: 0; color: #D5D5D5; height: 60px; line-height: 60px; }
 .lib_Menubox_sx li.hover { padding: 0px; background: #fff; width: 250px; border-right: 0; color: #F6F6F6; height: 60px; line-height: 60px; background: url("./images/nav_leng.png") 0 -64px; }
 .lib_Contentbox_sx { margin-top: 0px; border-top: none; padding: 0 0px; border-left: 0; margin-left: 130px; overflow: hidden; height: 100% }
-.lib_Menubox_sx #home1 { background: url("./images/home.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home2 { background: url("./images/home1.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home3 { background: url("./images/home2.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home4 { background: url("./images/home3.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home5 { background: url("./images/home4.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home6 { background: url("./images/home5.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home7 { background: url("./images/home6.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home8 { background: url("./images/gx.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
-.lib_Menubox_sx #home9 { background: url("./images/_right_24px_1145.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home1 { background: url(".../images/home.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home2 { background: url(".../images/home1.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home3 { background: url(".../images/home2.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home4 { background: url(".../images/home3.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home5 { background: url(".../images/home4.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home6 { background: url(".../images/home5.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home7 { background: url(".../images/home6.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home8 { background: url(".../images/gx.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
+.lib_Menubox_sx #home9 { background: url(".../images/_right_24px_1145.png") no-repeat; background-position: left; margin-left: 50px; padding-left: 38px; text-align: left; }
 
 
 
