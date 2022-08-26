@@ -26,6 +26,9 @@ https://www.bilibili.com/video/BV1Uq4y1t7xy
 易语言-VMP授权锁对接教程
 https://www.bilibili.com/video/BV1W34y1H7py
 
+易语言-云计算对接使用教程
+https://www.bilibili.com/video/BV1ha411571k
+
 接口文档：
 https://docs.dllapi.com/
 https://docs.apipost.cn/preview/4cfc708538440167/135183606874aab9
