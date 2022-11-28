@@ -1,0 +1,30 @@
+{
+  "Maintenance": {
+    "State": false,
+    "Bulletins": "维护公告!"
+  },
+  "Patch": {
+    "State": false,
+    "Url": "/Patch/Init.dll",
+    "Pwd": "",
+    "Function": "Init",
+    "Arg": []
+  },
+  "Update": {
+    "Version": 10,
+    "Compel": false,
+	"UpdateMethod":3,
+    "Url": "",
+    "Pwd": "",
+    "Bulletins": "更新公告!"
+  },
+  
+  "lanzou": {
+    "Url": "/dll/Lanzou.dll",
+    "Function": "Lanzou"
+  },
+  "Code": 200,
+  "Msg":"",
+  "Data": {}
+  
+}
