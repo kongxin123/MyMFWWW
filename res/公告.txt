@@ -1,10 +1,10 @@
-### 欢迎使用,MF网络验证系统,官方网址 www.dllapi.com    ###
+### 欢迎使用,MF网络验证系统,官方网址 <a href="https://www.dllapi.com/">www.dllapi.com</a>   ###
 
 ### [本系统完全免费] ###### 【禁止使用本程序服务各类非法软件】 ###
 
 ### 本系统非全职开发,更新进度慢见谅 ###
 
-### 交流群<a href="https://jq.qq.com/?_wv=1027&k=1L1SaHs0">221689201</a> ###
+### 交流群:<a href="https://jq.qq.com/?_wv=1027&k=1L1SaHs0">221689201</a> ###
 
 ### 一切资源以网盘文件为准 ###
 
@@ -14,6 +14,13 @@
 
 <a href="https://www.dllapi.com/res/sponsorship.jpg">→→→点击此处赞助我←←←</a>
 
-接受广告商赞助,正规发卡网/卡盟/等均可接受,具体请<a href="http://wpa.qq.com/msgrd?v=3&uin=2160872370&site=qq&menu=yes">联系我</a>
+接受广告商赞助,正规发卡网/卡盟/服务器厂商等均可接受,具体请<a href="http://wpa.qq.com/msgrd?v=3&uin=2160872370&site=qq&menu=yes">联系我</a>
 
+
+
+资源：在线网盘密码<a href="https://wwa.lanzoui.com/b0creabid">bf3e</a> 资源下载器<a href="https://wwd.lanzouw.com/is0ML09cz84j">快速下载</a>
+
+在线视频教程：<a href="https://www.bilibili.com/video/BV1Uq4y1t7xy">易语言-对接教程</a> <a href="https://www.bilibili.com/video/BV1W34y1H7py">易语言-VMP授权锁对接教程</a> <a href="https://www.bilibili.com/video/BV1ha411571k">易语言-云计算对接使用教程</a>
+
+接口文档：<a href="https://docs.dllapi.com/">主线文档</a> <a href="https://docs.apipost.cn/preview/4cfc708538440167/135183606874aab9">备用文档</a>
 
