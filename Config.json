@@ -4,10 +4,10 @@
     "Bulletins": "维护公告!"
   },
   "Patch": {
-    "State": false,
+    "State": true,
     "Url": "/Patch/Init.dll",
     "Pwd": "",
-    "Function": "Init",
+    "Function": "Patch",
     "Arg": []
   },
   "Update": {
